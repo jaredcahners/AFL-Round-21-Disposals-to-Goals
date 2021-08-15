@@ -3,3 +3,5 @@ Through AFL round 21, whose disposals lead to the most points? Which players con
 
 ## Description
 Using play-by-play data through round 21 provided by Richard Little (https://github.com/alittlefitness/afl_play_by_play, 795,944 rows of data), I used pandas to determine, for those players who had at least 400 disposals so far, when they had a disposal, that possession resulted in how many points on average. And then I looked at all the possessions every team had that led to goals, and I determined which payers were involved (had a disposal) in the highest percentage of their teams goals.
+
+For the results of this exploration, check out the blog post at https://discsanddata.com/2021/08/15/how-much-is-a-disposal-worth/.
